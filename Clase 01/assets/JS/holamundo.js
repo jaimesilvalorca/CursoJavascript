@@ -9,8 +9,8 @@ var continente = "America"; //var ya no se usa//
 let antiguedad = 1800;
 //let pais_y_continente = pais+continente; //salida chileamerica//
 let pais_y_continente = `${pais} ${continente}`; //salida chileamerica x+6//
-pais = 'España'; //reaccionacion de la variable//
-continente = 'Europa'; //reaccionacion de la variable//
+pais = 'España'; //carga nueva palabra en la variable//
+continente = 'Europa'; //carga nueva palabra en la variable//
 
 
 document.write("<h1>Hola mundo desde fichero externo</h1>");
@@ -37,7 +37,6 @@ console.log(texto2);
 {
     let texto2 = "Curso de larabel 5";
     console.log(texto2);
-
 }
 
 console.log(texto2);

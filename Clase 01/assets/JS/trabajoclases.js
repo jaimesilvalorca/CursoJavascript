@@ -1,3 +1,4 @@
+alert("Bienvenido a la tienda");
 let nombre = prompt("Tu nombre");
 let apellido = prompt("Ingresa tu apellido")
 let salida = `${nombre} ${apellido}`;
