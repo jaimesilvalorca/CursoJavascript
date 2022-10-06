@@ -1,5 +1,5 @@
 let i = 0
-let val
+let val = 0
 
 while (i < 1) {
     let valores = parseInt(prompt("Ingrese cantidad de pesos chilenos para transformar a UF,UTM o Dolares"))
